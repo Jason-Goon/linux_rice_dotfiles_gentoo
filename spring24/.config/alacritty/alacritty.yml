@@ -1,0 +1,29 @@
+  cursor:
+    text: '#fffac2'
+    cursor: '#fae4fc'
+
+  selection:
+    text: '#252b37'
+    background: '#fae4fc'
+
+  # Normal colors
+  normal:
+    black: "#252b37"
+    red: "#d0679d"
+    green: "#5de4c7"
+    yellow: "#fffac2"
+    blue: "#89ddff"
+    magenta: "#fae4fc"
+    cyan: "#add7ff"
+    white: "#ffffff"
+
+  # Bright colors
+  bright:
+    black: "#a6accd"
+    red: "#d0679d"
+    green: "#5de4c7"
+    yellow: "#fffac2"
+    blue: "#add7ff"
+    cyan: "#89ddff"
+    magenta: "#fcc5e9"
+    white: "#ffffff"
