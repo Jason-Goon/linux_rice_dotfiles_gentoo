@@ -38,7 +38,7 @@ Tehty mukailemaan "olivercederborg / poimandres.nvim" teemaa
 ![Winter24 Screenshot](winter24/2024-01-09_11-32.png)
 
 ### Spring24
-Ei liity paljoakaan vuodenaikaan muuten kuin että käytin sitä vuoden 2024 kevään aikana.
+Tehty mukailemaan "olivercederborg / poimandres.nvim" teemaa
 
 ![Spring24 Screenshot](spring24/2024-04-11_12-14.png)
 
