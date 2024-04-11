@@ -1,0 +1,6 @@
+nitrogen --restore &
+picom  &
+xset s off &
+xset noblank &
+xset dpms 0 0 0 &
+setxkbmap -layout us -variant colemak &
