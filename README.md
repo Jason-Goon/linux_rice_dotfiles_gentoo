@@ -34,7 +34,7 @@ Tämä repositorio esittelee Gentoo dwm rice -konfiguraatioitani "Winter24" ja "
 
 ### Winter24
 Ei liity paljoakaan vuodenaikaan muuten kuin että käytin sitä vuoden 2024 talven aikana.
-![Winter24 Screenshot](./winter24/screenshot12.png)
+![Winter24 Screenshot](winter24/2024-01-09_11-32.png)
 
 ### Spring24
 Ei liity paljoakaan vuodenaikaan muuten kuin että käytin sitä vuoden 2024 kevään aikana.
