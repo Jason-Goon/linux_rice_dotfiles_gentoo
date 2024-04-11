@@ -5,11 +5,12 @@ This repository showcases my Gentoo dwm rice for "Winter24" and "Spring24". I ru
 ## About the Setups
 
 ### Winter24
-Doesn't have much to do  with the time of year other than I used it during the winter of 2024 
+System made to compliment the  "fcpg /vim-farout" theme
+
 ![Winter24 Screenshot](winter24/2024-01-09_19-22.png)
 
 ### Spring24
-Doesn't have much to do  with the time of year other than I used it during the spring of 2024 
+System made to compliment "olivercederborg / poimandres.nvim" theme
 
 ![Spring24 Screenshot](spring24/2024-04-11_12-10.png)
 
@@ -33,7 +34,7 @@ Tämä repositorio esittelee Gentoo dwm rice -konfiguraatioitani "Winter24" ja "
 ## Asetuksista
 
 ### Winter24
-Ei liity paljoakaan vuodenaikaan muuten kuin että käytin sitä vuoden 2024 talven aikana.
+Tehty mukailemaan "olivercederborg / poimandres.nvim" teemaa
 ![Winter24 Screenshot](winter24/2024-01-09_11-32.png)
 
 ### Spring24
