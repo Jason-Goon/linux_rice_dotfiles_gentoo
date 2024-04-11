@@ -11,7 +11,7 @@ Doesn't have much to do  with the time of year other than I used it during the w
 ### Spring24
 Doesn't have much to do  with the time of year other than I used it during the spring of 2024 
 
-![Spring24 Screenshot](./spring24/screenshot.png)
+![Spring24 Screenshot](spring24/2024-04-11_12-10.png)
 
 ## Dependencies
 
