@@ -1,6 +1,6 @@
 # Gentoo dwm Rice Dotfiles - Winter24 & Spring24 Setups
 
-This repository showcases my Gentoo dwm rice for "Winter24" and "Spring24" setups, highlighting extensive customizations in Neovim and Alacritty to complement the seasonal aesthetics.
+This repository showcases my Gentoo dwm rice for "Winter24" and "Spring24". I run a very minimalistic setup with some theme customizations in Neovim and Alacritty to complement the aesthetics.
 
 ## About the Setups
 
@@ -28,7 +28,7 @@ Doesn't have much to do  with the time of year other than I used it during the s
 
 # Gentoo dwm Rice Dotfiles - Winter24 & Spring24 -asetukset
 
-Tämä repositorio esittelee Gentoo dwm rice -konfiguraatioitani "Winter24" ja "Spring24" asetuksille, korostaen laajoja mukautuksia Neovimissa ja Alacrittyssä vuodenaikojen esteettisyyttä täydentämään.
+Tämä repositorio esittelee Gentoo dwm rice -konfiguraatioitani "Winter24" ja "Spring24" asetuksille minimalistisessa setupissa. 
 
 ## Asetuksista
 
