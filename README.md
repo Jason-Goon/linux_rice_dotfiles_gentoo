@@ -6,7 +6,7 @@ This repository showcases my Gentoo dwm rice for "Winter24" and "Spring24" setup
 
 ### Winter24
 Doesn't have much to do  with the time of year other than I used it during the winter of 2024 
-![Winter24 Screenshot](./winter24/screenshot.png)
+![Winter24 Screenshot](winter24/2024-01-09_19-22.png)
 
 ### Spring24
 Doesn't have much to do  with the time of year other than I used it during the spring of 2024 
