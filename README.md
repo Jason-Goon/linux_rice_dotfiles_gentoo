@@ -39,7 +39,7 @@ Ei liity paljoakaan vuodenaikaan muuten kuin että käytin sitä vuoden 2024 tal
 ### Spring24
 Ei liity paljoakaan vuodenaikaan muuten kuin että käytin sitä vuoden 2024 kevään aikana.
 
-![Spring24 Screenshot](./spring24/screenshot13.png)
+![Spring24 Screenshot](spring24/2024-04-11_12-14.png)
 
 ## Riippuvuudet
 
